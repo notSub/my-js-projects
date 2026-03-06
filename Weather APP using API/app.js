@@ -1,6 +1,6 @@
 const wForm = document.querySelector(".wform");
 const card= document.querySelector(".card");
-const apikey= "5ca416e1c05a62174f645b2beabb8c87";
+const apikey= "";
 
 
 
